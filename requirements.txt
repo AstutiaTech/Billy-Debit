@@ -1,0 +1,12 @@
+dateparser==0.7.6
+gunicorn==20.1.0
+fastapi==0.79.0
+itsdangerous==1.1.0
+jsonschema==3.2.0
+PyJWT==1.7.1
+pyodbc==4.0.30
+python-dotenv==0.14.0
+requests==2.7.0
+urllib3==1.25.10
+uvicorn==0.18.2
+sqlparse==0.3.1
